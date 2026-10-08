@@ -40,4 +40,4 @@ My bots right now, from the status feed the machine that runs them publishes eve
 ![MafiaBot](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhunterg2%2Fhunnag-status%2Fmain%2Fbadges%2Fmafiabot.json)
 ![ScribeBot](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhunterg2%2Fhunnag-status%2Fmain%2Fbadges%2Fscribebot.json)
 
-What I changed lately: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
+What I changed lately: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)). If something here saved you an evening, there is a [Ko-fi](https://ko-fi.com/hunnag).
