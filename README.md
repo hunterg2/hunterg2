@@ -4,7 +4,8 @@ hunnaG_
 
 [ LIVE ] Blob Siege        a browser multiplayer voxel shooter: build a fort, hold the zone
 [ BETA ] Monopalade        a lemonade-stand tycoon with a credit score
-[ WIP  ] Plunderbound      a top-down pixel-art pirate roguelite, in DragonRuby
+[ WIP  ] Plunderbound      a top-down pixel-art pirate roguelite: a company, not a hero
+[ BETA ] Unlucky Traveler  an ASCII wasteland roguelike: bitten, sixteen days to find the healer
 [ LIVE ] TicketBot         private support tickets with a button panel and transcripts
 [ LIVE ] EventBot          sign-up posts for events, solo or in teams
 [ LIVE ] RoleReactionBot   react to an emoji, get a role
@@ -12,7 +13,7 @@ hunnaG_
 [ BETA ] GiveawayBot       giveaways with several prizes and announced winners
 [ BETA ] MafiaBot          a full game of Mafia in a text channel
 [ BETA ] ScribeBot         copy or export a channel with search-style filters
-[ DONE ] Ariadne           a local organiser for image-generator output
+[ DONE ] Ariadne           a local, private image organizer for any folder
 [ DONE ] Plutus            a single-file client ledger
 [ DONE ] BDFR GUI          a desktop front end for the Bulk Downloader for Reddit
 
@@ -25,7 +26,7 @@ what each bot needs and why, a log of what I changed, and a live status page.
 
 | | | |
 |---|---|---|
-| **Games** | [Blob Siege](https://hunnag.pages.dev/games/blob-siege/) · [Monopalade](https://hunnag.pages.dev/games/monopalade/) · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/) | play in the browser or download; I have more on the way |
+| **Games** | [Blob Siege](https://hunnag.pages.dev/games/blob-siege/) · [Monopalade](https://hunnag.pages.dev/games/monopalade/) · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/) · [Unlucky Traveler](https://hunnag.pages.dev/games/unlucky-traveler/) | all play in the browser; I have more on the way |
 | **Discord bots** | [TicketBot](https://hunnag.pages.dev/bots/ticketbot/) · [EventBot](https://hunnag.pages.dev/bots/eventbot/) · [RoleReactionBot](https://hunnag.pages.dev/bots/rolereactionbot/) · [DBDBot](https://hunnag.pages.dev/bots/dbdbot/) · [GiveawayBot](https://hunnag.pages.dev/bots/giveawaybot/) · [MafiaBot](https://hunnag.pages.dev/bots/mafiabot/) · [ScribeBot](https://hunnag.pages.dev/bots/scribebot/) | I explain every permission, skip privileged intents wherever a feature allows it, and give each one the same `/<bot> admins`, `/<bot> help` and `/<bot> info` · [status](https://hunnag.pages.dev/status/) |
 | **Tools** | [Ariadne](https://github.com/hunterg2/ariadne) · [Plutus](https://github.com/hunterg2/plutus) · [BDFR GUI](https://github.com/hunterg2/bdfr-gui) · [FlowDownloader](https://github.com/hunterg2/FlowDownloader) | the source is here, under the GPL |
 | **Hackathons** | [Crypto Profile Aggregator](https://github.com/hunterg2/crypto-profile-aggregator) (2019, first-place sponsor award) · [Tote-ily](https://github.com/hunterg2/tote-ily) (2022) | weekend builds I've kept as they were |
