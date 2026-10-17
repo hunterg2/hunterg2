@@ -1,0 +1,46 @@
+# Every six hours: rewrite the Lately list in README.md from the hub's log
+# (https://hunnag.pages.dev/log.xml) with .github/scripts/lately.mjs, and commit it as hunnaG when
+# it changed. Nothing new, nothing pushed. "Run workflow" on the Actions tab runs it at once.
+#
+# GitHub pauses a scheduled workflow after 60 days without a commit to the repo; this job's own
+# commits count, so it only stops if the log goes quiet that long. Re-enable it on the Actions tab.
+name: Lately
+
+on:
+  schedule:
+    - cron: '37 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lately
+  cancel-in-progress: false
+
+jobs:
+  lately:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Read the hub's log
+        run: node .github/scripts/lately.mjs
+
+      - name: Commit what changed
+        run: |
+          git config user.name hunnaG
+          git config user.email 56766727+hunterg2@users.noreply.github.com
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+            exit 0
+          fi
+          git commit -m "Lately: the newest updates from the hub's log" -m "Written by .github/workflows/lately.yml from https://hunnag.pages.dev/log.xml."
+          git pull --rebase --quiet
+          git push
