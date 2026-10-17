@@ -2,22 +2,33 @@
 hunnaG_
 // games · discord bots · tools
 
-[ LIVE ] Blob Siege        a browser multiplayer voxel shooter: build a fort, hold the zone
-[ BETA ] Monopalade        a lemonade-stand tycoon with a credit score
-[ WIP  ] Plunderbound      a top-down pixel-art pirate roguelite: a company, not a hero
-[ BETA ] Unlucky Traveler  an ASCII wasteland roguelike: bitten, sixteen days to find the healer
-[ LIVE ] TicketBot         private support tickets with a button panel and transcripts
-[ LIVE ] EventBot          sign-up posts for events, solo or in teams
-[ LIVE ] RoleReactionBot   react to an emoji, get a role
-[ LIVE ] DBDBot            any Dead by Daylight map in two clicks
-[ BETA ] GiveawayBot       giveaways with several prizes and announced winners
-[ BETA ] MafiaBot          a full game of Mafia in a text channel
-[ BETA ] ScribeBot         copy or export a channel with search-style filters
-[ DONE ] Ariadne           a local, private image organizer for any folder
-[ DONE ] Plutus            a single-file client ledger
-[ DONE ] BDFR GUI          a desktop front end for the Bulk Downloader for Reddit
+games, released
+[ ACTIVE ] Blob Siege            a browser multiplayer voxel shooter: build a fort, hold the zone
+[ SLOWLY ] Monopalade            a lemonade-stand tycoon with a credit score
+[ SLOWLY ] Unlucky Traveler      an ASCII wasteland roguelike: sixteen days to find the healer
+[ POLISH ] Smugglers N Sheriffs  a bluffy party game for 3 to 8 friends on their phones
+[ POLISH ] Elements              a fan recreation of Zanzarino Design's Flash card game
 
-hunnag.pages.dev · hunnag.pages.dev/status
+games, in development
+[ ACTIVE ] Plunderbound          a pixel-art pirate roguelite: captain a crew, make your name
+
+discord bots
+[ SLOWLY ] TicketBot             private support tickets with a button panel and transcripts
+[ SLOWLY ] EventBot              sign-up posts for events, solo or in teams
+[ SLOWLY ] RoleReactionBot       react to an emoji, get a role
+[ SLOWLY ] DBDBot                any Dead by Daylight map in two clicks
+[ SLOWLY ] GiveawayBot           giveaways with several prizes and announced winners
+[ SLOWLY ] MafiaBot              a full game of Mafia in a text channel
+[ SLOWLY ] ScribeBot             copy or export a channel with search-style filters
+
+tools
+[ DONE   ] Ariadne               a local, private image organizer for any folder
+[ DONE   ] Plutus                a single-file client ledger
+[ DONE   ] BDFR GUI              a desktop front end for the Bulk Downloader for Reddit
+
+active · slowly · polish: how often it still gets updates
+
+hunnag.pages.dev · hunnag.pages.dev/status · hunnag.itch.io
 ```
 
 I'm hunnaG. I make games of several kinds, Discord bots you can add to a server in two clicks,
@@ -26,10 +37,22 @@ what each bot needs and why, a log of what I changed, and a live status page.
 
 | | | |
 |---|---|---|
-| **Games** | [Blob Siege](https://hunnag.pages.dev/games/blob-siege/) · [Monopalade](https://hunnag.pages.dev/games/monopalade/) · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/) · [Unlucky Traveler](https://hunnag.pages.dev/games/unlucky-traveler/) | all play in the browser; I have more on the way |
+| **Games** | [Blob Siege](https://hunnag.pages.dev/games/blob-siege/) · [Monopalade](https://hunnag.pages.dev/games/monopalade/) · [Unlucky Traveler](https://hunnag.pages.dev/games/unlucky-traveler/) · [Smugglers N Sheriffs](https://hunnag.pages.dev/games/smugglers-n-sheriffs/) · [Elements](https://hunnag.pages.dev/games/elements/) · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/) | all play in the browser, three on [itch.io](https://hunnag.itch.io) too. Elements is not my design: it's a faithful fan recreation of Zanzarino Design's Flash card game. Plunderbound gets a download soon |
 | **Discord bots** | [TicketBot](https://hunnag.pages.dev/bots/ticketbot/) · [EventBot](https://hunnag.pages.dev/bots/eventbot/) · [RoleReactionBot](https://hunnag.pages.dev/bots/rolereactionbot/) · [DBDBot](https://hunnag.pages.dev/bots/dbdbot/) · [GiveawayBot](https://hunnag.pages.dev/bots/giveawaybot/) · [MafiaBot](https://hunnag.pages.dev/bots/mafiabot/) · [ScribeBot](https://hunnag.pages.dev/bots/scribebot/) | I explain every permission, skip privileged intents wherever a feature allows it, and give each one the same `/<bot> admins`, `/<bot> help` and `/<bot> info` · [status](https://hunnag.pages.dev/status/) |
 | **Tools** | [Ariadne](https://github.com/hunterg2/ariadne) · [Plutus](https://github.com/hunterg2/plutus) · [BDFR GUI](https://github.com/hunterg2/bdfr-gui) · [FlowDownloader](https://github.com/hunterg2/FlowDownloader) | the source is here, under the GPL |
 | **Hackathons** | [Crypto Profile Aggregator](https://github.com/hunterg2/crypto-profile-aggregator) (2019, first-place sponsor award) · [Tote-ily](https://github.com/hunterg2/tote-ily) (2022) | weekend builds I've kept as they were |
+
+Lately, from the hub's log:
+
+<!-- lately:start -->
+- Oct 15 · [Smugglers N Sheriffs](https://hunnag.pages.dev/games/smugglers-n-sheriffs/): A bluffy party game for 3 to 8 friends on their phones joins the hub, with bots for empty seats.
+- Oct 15 · [Elements](https://hunnag.pages.dev/games/elements/): A faithful fan recreation of the Flash card game by Zanzarino Design joins the hub, credited to its makers.
+- Oct 9 · [Unlucky Traveler](https://hunnag.pages.dev/games/unlucky-traveler/) has a second version, the Burn, where grass gives way to scrub and then to ground where nothing grows, the roads end at a sign, every step out there costs…
+- Oct 9 · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/) plays in the browser at plunderbound.pages.dev; the entry moved to web games, with the skull and the menu over the sea drawn pixel for pixel.
+- Oct 9 · [Blob Siege, Monopalade and Unlucky Traveler play on itch.io too, at hunnag.itch.io, with a second play button on each entry; the pages.dev sites stay the home…](https://hunnag.pages.dev/log/#2026-10-09-itch)
+<!-- lately:end -->
+
+Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
 
 My bots right now, from the status feed the machine that runs them publishes every five minutes:
 
@@ -40,7 +63,5 @@ My bots right now, from the status feed the machine that runs them publishes eve
 ![GiveawayBot](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhunterg2%2Fhunnag-status%2Fmain%2Fbadges%2Fgiveawaybot.json)
 ![MafiaBot](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhunterg2%2Fhunnag-status%2Fmain%2Fbadges%2Fmafiabot.json)
 ![ScribeBot](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhunterg2%2Fhunnag-status%2Fmain%2Fbadges%2Fscribebot.json)
-
-What I changed lately: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
 
 If you've enjoyed my work, consider supporting me on [Ko-fi](https://ko-fi.com/hunnag). Thank you.
