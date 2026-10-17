@@ -45,11 +45,11 @@ what each bot needs and why, a log of what I changed, and a live status page.
 Lately, from the hub's log:
 
 <!-- lately:start -->
-- Oct 15 · [Smugglers N Sheriffs](https://hunnag.pages.dev/games/smugglers-n-sheriffs/): A bluffy party game for 3 to 8 friends on their phones joins the hub, with bots for empty seats.
-- Oct 15 · [Elements](https://hunnag.pages.dev/games/elements/): A faithful fan recreation of the Flash card game by Zanzarino Design joins the hub, credited to its makers.
-- Oct 9 · [Unlucky Traveler](https://hunnag.pages.dev/games/unlucky-traveler/) has a second version, the Burn, where grass gives way to scrub and then to ground where nothing grows, the roads end at a sign, every step out there costs…
-- Oct 9 · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/) plays in the browser at plunderbound.pages.dev; the entry moved to web games, with the skull and the menu over the sea drawn pixel for pixel.
-- Oct 9 · [Blob Siege, Monopalade and Unlucky Traveler play on itch.io too, at hunnag.itch.io, with a second play button on each entry; the pages.dev sites stay the home…](https://hunnag.pages.dev/log/#2026-10-09-itch)
+- Oct 17 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Refreshing the page or dropping out mid-game now puts you back where you were, with your gear and health, and zombies pile up smarter.
+- Oct 17 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Refreshing or losing your connection no longer skips the wait to respawn, and leaving mid-wave no longer heals you in Zombie Survival.
+- Oct 17 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): New Gun game mode: every kill moves you up a ladder of guns and a knife kill at the top wins, against friends or practice bots.
+- Oct 16 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The sound no longer cuts out when your headset or audio device changes, and the Zombie Bear climbs stairs and digs ramps out of pits.
+- Oct 16 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Smoother frames with no more smoke hitches, joining a busy game in progress works again, and a quick reconnect keeps your guns and money.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
