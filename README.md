@@ -45,11 +45,11 @@ what each bot needs and why, a log of what I changed, and a live status page.
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Oct 18 · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/): Bug reports sent from inside the game now reach the developer, and players can choose to share anonymous voyage stats to help with balance.
+- Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival gets a supply helicopter that lands between waves, with a salesman selling nine stacking drinks, including a self-revive.
+- Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Floating blocks now crumble from the bottom up, every map was rebuilt to stand, and Zombie Survival gets a repair hammer for patching walls.
 - Oct 17 · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/): The biggest update yet: morale and mutiny, fifty-one unique crewmates to find, ship fittings, forts to storm and a Crown treasure ship to hunt.
 - Oct 17 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Refreshing the page or dropping out mid-game now puts you back where you were, with your gear and health, and zombies pile up smarter.
-- Oct 17 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Refreshing or losing your connection no longer skips the wait to respawn, and leaving mid-wave no longer heals you in Zombie Survival.
-- Oct 17 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Pack-a-Punch's second upgrade now gives every gun a perk of its own in Zombie Survival, from exploding bullets to confetti shells.
-- Oct 17 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): New Gun game mode: every kill moves you up a ladder of guns and a knife kill at the top wins, against friends or practice bots.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
