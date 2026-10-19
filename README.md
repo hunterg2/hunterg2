@@ -48,8 +48,8 @@ Lately, from the hub's log:
 - Oct 18 · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/): Bug reports sent from inside the game now reach the developer, and players can choose to share anonymous voyage stats to help with balance.
 - Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's waves get bigger and quicker with more zombies out at once, you can sprint while building, and damaged walls cost less to draw.
 - Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival gets a supply helicopter that lands between waves, with a salesman selling nine stacking drinks, including a self-revive.
-- Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Floating blocks now crumble from the bottom up, every map was rebuilt to stand, and Zombie Survival gets a repair hammer for patching walls.
-- Oct 17 · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/): The biggest update yet: morale and mutiny, fifty-one unique crewmates to find, ship fittings, forts to storm and a Crown treasure ship to hunt.
+- Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Weaker graphics cards now draw the sky in about half the time, and it looks exactly the same.
+- Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The Game rules are sorted by mode, you can rename yourself in the lobby, the host can kick players mid-game, and the sky costs less to draw.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
