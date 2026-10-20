@@ -45,11 +45,11 @@ what each bot needs and why, a log of what I changed, and a live status page.
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Global leaderboards for all three modes, with accounts, profiles and badges, and Zombie Survival's hordes come twice as fast and hundreds strong.
 - Oct 19 · [Smugglers N Sheriffs](https://hunnag.pages.dev/games/smugglers-n-sheriffs/): On a PC, long player names on the end-of-round board now shrink to fit instead of getting cut off.
 - Oct 19 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's waves now grow forever and come in quicker, more zombies can be out at once, and the helicopter sells more drinks each visit.
 - Oct 18 · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/): Bug reports sent from inside the game now reach the developer, and players can choose to share anonymous voyage stats to help with balance.
 - Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's waves get bigger and quicker with more zombies out at once, you can sprint while building, and damaged walls cost less to draw.
-- Oct 18 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival gets a supply helicopter that lands between waves, with a salesman selling nine stacking drinks, including a self-revive.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
