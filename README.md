@@ -46,10 +46,10 @@ Lately, from the hub's log:
 
 <!-- lately:start -->
 - Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's zombies get tougher every wave and pour in faster with friends, players move a little slower, and big hordes run much smoother.
+- Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's bigger games get bigger hordes, and Far zombies stays set on each computer.
+- Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The leaderboards show your own row once: its pinned copy at the bottom now appears only while your row is scrolled out of sight.
+- Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Signing in now counts as confirming it's you for 15 minutes, so adding Discord or Google right after takes one window instead of two.
 - Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Global leaderboards for all three modes, with accounts, profiles and badges, and Zombie Survival's hordes come twice as fast and hundreds strong.
-- Oct 19 · [Smugglers N Sheriffs](https://hunnag.pages.dev/games/smugglers-n-sheriffs/): On a PC, long player names on the end-of-round board now shrink to fit instead of getting cut off.
-- Oct 19 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's waves now grow forever and come in quicker, more zombies can be out at once, and the helicopter sells more drinks each visit.
-- Oct 18 · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/): Bug reports sent from inside the game now reach the developer, and players can choose to share anonymous voyage stats to help with balance.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
