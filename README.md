@@ -45,11 +45,11 @@ what each bot needs and why, a log of what I changed, and a live status page.
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Bots join online games: fill empty seats with up to 12 bots, each on its own difficulty, playing every mode as a player would.
+- Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Big fights sound right again: the sound no longer cuts out when the zombies pile up, and games run lighter for whoever hosts.
+- Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new main menu with a Play with bots button, and a lobby where the host picks the game mode and the map from a grid of map pictures.
 - Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's zombies get tougher every wave and pour in faster with friends, players move a little slower, and big hordes run much smoother.
 - Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's bigger games get bigger hordes, and Far zombies stays set on each computer.
-- Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The leaderboards show your own row once: its pinned copy at the bottom now appears only while your row is scrolled out of sight.
-- Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Signing in now counts as confirming it's you for 15 minutes, so adding Discord or Google right after takes one window instead of two.
-- Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Global leaderboards for all three modes, with accounts, profiles and badges, and Zombie Survival's hordes come twice as fast and hundreds strong.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
