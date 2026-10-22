@@ -48,8 +48,8 @@ Lately, from the hub's log:
 - Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Bots join online games: fill empty seats with up to 12 bots, each on its own difficulty, playing every mode as a player would.
 - Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Big fights sound right again: the sound no longer cuts out when the zombies pile up, and games run lighter for whoever hosts.
 - Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new main menu with a Play with bots button, and a lobby where the host picks the game mode and the map from a grid of map pictures.
+- Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new boss: a huge Zombie T-Rex stomps in on wave 20 and every 20 waves after, taking turns with the Zombie Bear.
 - Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's zombies get tougher every wave and pour in faster with friends, players move a little slower, and big hordes run much smoother.
-- Oct 20 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival's bigger games get bigger hordes, and Far zombies stays set on each computer.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
