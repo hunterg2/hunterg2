@@ -3,28 +3,28 @@ hunnaG_
 // games · discord bots · tools
 
 games, released
-[ ACTIVE ] Blob Siege            a browser multiplayer voxel shooter: build a fort, hold the zone
-[ SLOWLY ] Monopalade            a lemonade-stand tycoon with a credit score
-[ SLOWLY ] Unlucky Traveler      an ASCII wasteland roguelike: sixteen days to find the healer
-[ POLISH ] Smugglers N Sheriffs  a bluffy party game for 3 to 8 friends on their phones
-[ POLISH ] Elements              a fan recreation of Zanzarino Design's Flash card game
+[ ACTIVE ] Blob Siege            a blocky shooter with friends or bots: build forts, outlast the horde
+[ POLISH ] Smugglers N Sheriffs  a bluffing party game for 3 to 8 friends on their phones
+[ POLISH ] Monopalade            a lemonade-stand business game where your credit score matters
+[ POLISH ] Unlucky Traveler      a survival adventure drawn in text: sixteen days to find the healer
+[ POLISH ] Elements              a fan revival of Zanzarino Design's Flash card game
 
 games, in development
-[ ACTIVE ] Plunderbound          a pixel-art pirate roguelite: captain a crew, make your name
+[ ACTIVE ] Plunderbound          a pixel-art pirate adventure: captain a crew, make your name
 
 discord bots
-[ SLOWLY ] TicketBot             private support tickets with a button panel and transcripts
-[ SLOWLY ] EventBot              sign-up posts for events, solo or in teams
-[ SLOWLY ] RoleReactionBot       react to an emoji, get a role
+[ SLOWLY ] TicketBot             a help desk: members open a private ticket with one button
+[ SLOWLY ] RoleReactionBot       members pick their own roles by reacting with an emoji
+[ SLOWLY ] EventBot              event sign-ups with one button, alone or as a team
+[ SLOWLY ] GiveawayBot           giveaways that draw and announce the winners on time
+[ SLOWLY ] ScribeBot             copy or save a channel's messages, filtered like Discord's search
 [ SLOWLY ] DBDBot                any Dead by Daylight map in two clicks
-[ SLOWLY ] GiveawayBot           giveaways with several prizes and announced winners
-[ SLOWLY ] MafiaBot              a full game of Mafia in a text channel
-[ SLOWLY ] ScribeBot             copy or export a channel with search-style filters
+[ SLOWLY ] MafiaBot              the Mafia party game in a text channel, with the bot as narrator
 
 tools
-[ DONE   ] Ariadne               a local, private image organizer for any folder
-[ DONE   ] Plutus                a single-file client ledger
-[ DONE   ] BDFR GUI              a desktop front end for the Bulk Downloader for Reddit
+[ DONE   ] Ariadne               a private photo organizer that runs on your own computer
+[ DONE   ] Plutus                a simple ledger for clients and payments, in one file you keep
+[ DONE   ] BDFR GUI              a simple window for bulk-downloading Reddit users' posts
 
 active · slowly · polish: how often it still gets updates
 
@@ -37,8 +37,8 @@ what each bot needs and why, a log of what I changed, and a live status page.
 
 | | | |
 |---|---|---|
-| **Games** | [Blob Siege](https://hunnag.pages.dev/games/blob-siege/) · [Monopalade](https://hunnag.pages.dev/games/monopalade/) · [Unlucky Traveler](https://hunnag.pages.dev/games/unlucky-traveler/) · [Smugglers N Sheriffs](https://hunnag.pages.dev/games/smugglers-n-sheriffs/) · [Elements](https://hunnag.pages.dev/games/elements/) · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/) | all play in the browser, three on [itch.io](https://hunnag.itch.io) too. Elements is not my design: it's a faithful fan recreation of Zanzarino Design's Flash card game. Plunderbound gets a download soon |
-| **Discord bots** | [TicketBot](https://hunnag.pages.dev/bots/ticketbot/) · [EventBot](https://hunnag.pages.dev/bots/eventbot/) · [RoleReactionBot](https://hunnag.pages.dev/bots/rolereactionbot/) · [DBDBot](https://hunnag.pages.dev/bots/dbdbot/) · [GiveawayBot](https://hunnag.pages.dev/bots/giveawaybot/) · [MafiaBot](https://hunnag.pages.dev/bots/mafiabot/) · [ScribeBot](https://hunnag.pages.dev/bots/scribebot/) | I explain every permission, skip privileged intents wherever a feature allows it, and give each one the same `/<bot> admins`, `/<bot> help` and `/<bot> info` · [status](https://hunnag.pages.dev/status/) |
+| **Games** | [Blob Siege](https://hunnag.pages.dev/games/blob-siege/) · [Smugglers N Sheriffs](https://hunnag.pages.dev/games/smugglers-n-sheriffs/) · [Monopalade](https://hunnag.pages.dev/games/monopalade/) · [Unlucky Traveler](https://hunnag.pages.dev/games/unlucky-traveler/) · [Elements](https://hunnag.pages.dev/games/elements/) · [Plunderbound](https://hunnag.pages.dev/games/plunderbound/) | all play in the browser, three on [itch.io](https://hunnag.itch.io) too. Elements is not my design: it's a faithful fan recreation of Zanzarino Design's Flash card game. Plunderbound gets a download soon |
+| **Discord bots** | [TicketBot](https://hunnag.pages.dev/bots/ticketbot/) · [RoleReactionBot](https://hunnag.pages.dev/bots/rolereactionbot/) · [EventBot](https://hunnag.pages.dev/bots/eventbot/) · [GiveawayBot](https://hunnag.pages.dev/bots/giveawaybot/) · [ScribeBot](https://hunnag.pages.dev/bots/scribebot/) · [DBDBot](https://hunnag.pages.dev/bots/dbdbot/) · [MafiaBot](https://hunnag.pages.dev/bots/mafiabot/) | I explain every permission, skip privileged intents wherever a feature allows it, and give each one the same `/<bot> admins`, `/<bot> help` and `/<bot> info` · [status](https://hunnag.pages.dev/status/) |
 | **Tools** | [Ariadne](https://github.com/hunterg2/ariadne) · [Plutus](https://github.com/hunterg2/plutus) · [BDFR GUI](https://github.com/hunterg2/bdfr-gui) · [FlowDownloader](https://github.com/hunterg2/FlowDownloader) | the source is here, under the GPL |
 | **Hackathons** | [Crypto Profile Aggregator](https://github.com/hunterg2/crypto-profile-aggregator) (2019, first-place sponsor award) · [Tote-ily](https://github.com/hunterg2/tote-ily) (2022) | weekend builds I've kept as they were |
 
