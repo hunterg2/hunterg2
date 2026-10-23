@@ -45,11 +45,11 @@ what each bot needs and why, a log of what I changed, and a live status page.
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Oct 23 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): New zombies that climb your walls or throw them at you, a castle, a military base and the backrooms, pop-up walls, bubble shields and teleporters.
 - Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Bots join online games: fill empty seats with up to 12 bots, each on its own difficulty, playing every mode as a player would.
 - Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Big fights sound right again: the sound no longer cuts out when the zombies pile up, and games run lighter for whoever hosts.
 - Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new main menu with a Play with bots button, and a lobby where the host picks the game mode and the map from a grid of map pictures.
 - Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new boss: a huge Zombie T-Rex stomps in on wave 20 and every 20 waves after, taking turns with the Zombie Bear.
-- Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A giant undead dragon boss arrives on wave 30, with two new guns, bosses that bite and bend their charges, and a long list of fixes.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
