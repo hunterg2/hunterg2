@@ -28,12 +28,13 @@ tools
 
 active · slowly · polish: how often it still gets updates
 
-hunnag.pages.dev · hunnag.pages.dev/status · hunnag.itch.io
+hunnag.pages.dev · hunnag.pages.dev/status · hunnag.itch.io · discord.gg/AxNc8RNJtd
 ```
 
 I'm hunnaG. I make games of several kinds, Discord bots you can add to a server in two clicks,
 and small tools that turned out worth sharing. Everything is on my hub: what each thing does,
 what each bot needs and why, a log of what I changed, and a live status page.
+For questions, bug reports, ideas, or just to say hi, join the [hunnaG Discord](https://discord.gg/AxNc8RNJtd).
 
 | | | |
 |---|---|---|
