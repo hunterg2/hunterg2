@@ -46,11 +46,11 @@ For questions, bug reports, ideas, or just to say hi, join the [hunnaG Discord](
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Oct 24 · [RoleReactionBot](https://hunnag.pages.dev/bots/rolereactionbot/) can give every new member a role as they join, with /rolereaction autorole.
 - Oct 24 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Smoother big waves and boss fights, two new settings, and a toned-down minigun.
 - Oct 24 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Dragon fights are smoother: its fire sweeping over wooden forts no longer makes the game stutter.
+- Oct 24 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new Mystery Box gun that bowls zombies over like pins, and sound that cuts out far less in big fights.
 - Oct 23 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): New zombies that climb your walls or throw them at you, a castle, a military base and the backrooms, pop-up walls, bubble shields and teleporters.
-- Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Bots join online games: fill empty seats with up to 12 bots, each on its own difficulty, playing every mode as a player would.
-- Oct 22 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Big fights sound right again: the sound no longer cuts out when the zombies pile up, and games run lighter for whoever hosts.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
