@@ -46,11 +46,11 @@ For questions, bug reports, ideas, or just to say hi, join the [hunnaG Discord](
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Oct 27 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new wave-40 boss, the Zombie Eye, joins the bosses' turns, and bosses get tougher with every friend in the game.
 - Oct 25 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Report a problem from inside the game: tell hunnaG about a bug, a sound cut-out or an idea, no account needed.
 - Oct 24 · [RoleReactionBot](https://hunnag.pages.dev/bots/rolereactionbot/) can give every new member a role as they join, with /rolereaction autorole.
 - Oct 24 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Smoother big waves and boss fights, two new settings, and a toned-down minigun.
 - Oct 24 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Dragon fights are smoother: its fire sweeping over wooden forts no longer makes the game stutter.
-- Oct 24 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new Mystery Box gun that bowls zombies over like pins, and sound that cuts out far less in big fights.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
