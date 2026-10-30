@@ -46,11 +46,11 @@ For questions, bug reports, ideas, or just to say hi, join the [hunnaG Discord](
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Oct 30 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The zombies have really let themselves go: a new, more rotten look for every one of them.
 - Oct 29 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The Zombie Dragon no longer strands people past the edge of the map, and your view no longer jerks sideways out of nowhere.
 - Oct 29 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Daycare fixes: move the cribs where you want them, and bots and zombies that no longer get stuck.
 - Oct 28 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombie Survival gets Daycare: waves on a timer, building any time and babies to protect, with its own leaderboard and two new badges. And the tesla aims for…
 - Oct 27 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new wave-40 boss, the Zombie Eye, joins the bosses' turns, and bosses get tougher with every friend in the game.
-- Oct 25 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Report a problem from inside the game: tell hunnaG about a bug, a sound cut-out or an idea, no account needed.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
