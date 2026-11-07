@@ -46,11 +46,11 @@ For questions, bug reports, ideas, or just to say hi, join the [hunnaG Discord](
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Nov 6 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Keep the map you just played, climb out of the water, and a gentler start to Daycare.
 - Nov 5 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Two new maps, a Sandbox, air strikes in the shop, and a T-rex that has stopped knocking itself out.
 - Nov 1 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Every menu has a new look: castle walls with your blob peeking over them, chunky buttons and switches with eyes.
 - Oct 30 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The zombies have really let themselves go: a new, more rotten look for every one of them.
 - Oct 29 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The Zombie Dragon no longer strands people past the edge of the map, and your view no longer jerks sideways out of nowhere.
-- Oct 29 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Daycare fixes: move the cribs where you want them, and bots and zombies that no longer get stuck.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
