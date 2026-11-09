@@ -46,11 +46,11 @@ For questions, bug reports, ideas, or just to say hi, join the [hunnaG Discord](
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Nov 8 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Turrets you can upgrade, and zombies that climb over your walls to get you.
 - Nov 7 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new lobby, new names, boss jaws that open the right way, a tidier profile, and safer online games.
 - Nov 6 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Keep the map you just played, climb out of the water, and a gentler start to Daycare.
 - Nov 5 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Two new maps, a Sandbox, air strikes in the shop, and a T-rex that has stopped knocking itself out.
 - Nov 1 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Every menu has a new look: castle walls with your blob peeking over them, chunky buttons and switches with eyes.
-- Oct 30 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The zombies have really let themselves go: a new, more rotten look for every one of them.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
