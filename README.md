@@ -46,11 +46,11 @@ For questions, bug reports, ideas, or just to say hi, join the [hunnaG Discord](
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Nov 10 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Traps, handing the host to a friend, assist money, the Zombies rename and two rounds a map in Capture the Zone.
 - Nov 9 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombies that climb hand over hand, bots that find their way when stuck, and a round of fixes from playing.
 - Nov 9 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A much bigger Space Laser, a choice of gun order in Gun game, and bosses that keep their colours under heavy fire.
 - Nov 8 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Turrets you can upgrade, and zombies that climb over your walls to get you.
 - Nov 7 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): A new lobby, new names, boss jaws that open the right way, a tidier profile, and safer online games.
-- Nov 6 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Keep the map you just played, climb out of the water, and a gentler start to Daycare.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
