@@ -46,11 +46,11 @@ For questions, bug reports, ideas, or just to say hi, join the [hunnaG Discord](
 Lately, from the hub's log:
 
 <!-- lately:start -->
+- Nov 19 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): The Zombie Lich, a new wave 50 boss, casts spells at whoever hurts him most, and after him the bosses start coming together.
 - Nov 17 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Pick up and move your turrets and traps, steadier online games, blasts that tear zombies apart, and a Space Laser that turns them to dust.
 - Nov 13 · [ScribeBot](https://hunnag.pages.dev/bots/scribebot/) can copy into another server now, once both servers link up.
 - Nov 13 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Emotes, a spell-casting Mage Book, badge items to wear, three new traps, faster loading and calmer flashing lights.
 - Nov 10 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Traps, handing the host to a friend, assist money, the Zombies rename and two rounds a map in Capture the Zone.
-- Nov 9 · [Blob Siege](https://hunnag.pages.dev/games/blob-siege/): Zombies that climb hand over hand, bots that find their way when stuck, and a round of fixes from playing.
 <!-- lately:end -->
 
 Everything I changed: [the log](https://hunnag.pages.dev/log/) ([RSS](https://hunnag.pages.dev/log.xml)).
